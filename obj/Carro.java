@@ -3,6 +3,7 @@ public class Carro {
     public String marca;
     public String modelo;
     public String placa;
+    public String ano;
 
     public Carro(String marca, String modelo, String placa) {
         this.marca = marca;
